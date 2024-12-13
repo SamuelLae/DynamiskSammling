@@ -12,3 +12,4 @@ C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSamml
 C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\DynamiskSammling.pdb
 C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\DynamiskSammling.genruntimeconfig.cache
 C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\ref\DynamiskSammling.dll
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\DynamiskSammling.sourcelink.json
