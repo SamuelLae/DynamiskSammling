@@ -1,0 +1,14 @@
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\DynamiskSammling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\DynamiskSammling.AssemblyInfoInputs.cache
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\DynamiskSammling.AssemblyInfo.cs
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\DynamiskSammling.csproj.CoreCompileInputs.cache
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\bin\Debug\net8.0\DynamiskSammling.exe
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\bin\Debug\net8.0\DynamiskSammling.deps.json
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\bin\Debug\net8.0\DynamiskSammling.runtimeconfig.json
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\bin\Debug\net8.0\DynamiskSammling.dll
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\bin\Debug\net8.0\DynamiskSammling.pdb
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\DynamiskSammling.dll
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\refint\DynamiskSammling.dll
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\DynamiskSammling.pdb
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\DynamiskSammling.genruntimeconfig.cache
+C:\Users\sl8342\OneDrive\Programering\c#\HT2-Slut\DynamiskSammling\DynamiskSammling\obj\Debug\net8.0\ref\DynamiskSammling.dll
