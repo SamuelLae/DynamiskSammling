@@ -43,7 +43,6 @@
     if (antal == längd){
       Expandera(1);
     }
-    Console.WriteLine(antal);
     Listan[antal] = b;
   }
 
@@ -58,6 +57,7 @@
 class Program{
   static void Main(){
   Samling<bool> a = new Samling<bool>();
+  Console.WriteLine(a);
     a.LäggTill(true);
     a.LäggTill(false);
     a.Reducera();
