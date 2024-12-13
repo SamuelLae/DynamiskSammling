@@ -44,6 +44,7 @@
       Expandera(1);
     }
     Listan[antal] = b;
+    antal++;
   }
 
    public void Print(){
