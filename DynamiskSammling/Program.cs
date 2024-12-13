@@ -6,8 +6,8 @@
 
   public Samling(){
     buffert = 30;
-    T[] Listan = new T[längd];
     längd = 10;
+    T[] Listan = new T[längd];
     antal = 0;
   }
 
