@@ -7,8 +7,8 @@
   public Samling(){
     buffert = 30;
     längd = 10;
-     antal = 0;
-    T[] Listan = new T[längd];
+    antal = 0;
+    Listan = new T[längd];
   }
 
   public void Expandera(int storlek){
@@ -57,7 +57,6 @@
 class Program{
   static void Main(){
   Samling<bool> a = new Samling<bool>();
-  Console.WriteLine(a);
     a.LäggTill(true);
     a.LäggTill(false);
     a.Reducera();
