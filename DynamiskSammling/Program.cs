@@ -7,8 +7,8 @@
   public Samling(){
     buffert = 30;
     längd = 10;
+     antal = 0;
     T[] Listan = new T[längd];
-    antal = 0;
   }
 
   public void Expandera(int storlek){
@@ -34,15 +34,15 @@
     {
       temp[i] = Listan[i];
     }
+     Listan = temp;
     längd = antal;
-    Listan = temp;
+   
   }
 
   public void LäggTill(T b){
     if (antal == längd){
       Expandera(1);
     }
-    Console.WriteLine(b);
     Listan[antal] = b;
   }
 
