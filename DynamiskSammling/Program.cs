@@ -42,6 +42,7 @@
     if (antal == längd){
       Expandera(1);
     }
+    Console.WriteLine(b);
     Listan[antal] = b;
   }
 
