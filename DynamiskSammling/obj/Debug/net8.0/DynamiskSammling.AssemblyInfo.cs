@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamiskSammling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9de385baecafacba03d860d4394400343d4a5fb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30624cd5ec3aa741ded5ea79c41de2a833ea4b1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamiskSammling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamiskSammling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
