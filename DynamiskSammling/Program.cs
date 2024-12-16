@@ -98,7 +98,7 @@ class Program{
     a.Print();
 
 
-    a.TaBort(1);
+    a.TaBort(5);
     a.Print();
   }
 }
