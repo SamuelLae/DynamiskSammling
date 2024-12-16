@@ -4,11 +4,14 @@
   ///  Buffertens storlek
   /// </summary>
   int buffert;
+
   T[] Listan;
+
   /// <summary>
   /// Antal tillgängliga platser
   /// </summary>
   int längd;
+
   int antal;
 
   public Samling(){
@@ -60,7 +63,7 @@
   }
 
   public void TaBort(int c){
-  if (antal < längd && c >= 0 && c <= antal){
+  if (antal <= längd && c >= 0 && c <= antal){
 
     T[] temp = new T[längd];
     int tempIndex = 0;
