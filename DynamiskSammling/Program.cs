@@ -93,12 +93,12 @@ class Program{
     a.Print();
 
     a.LäggTill(false);
+    a.Print();
+
     a.Reducera();
-    
     a.Print();
 
     a.TaBort(3);
-
     a.Print();
   }
 }
