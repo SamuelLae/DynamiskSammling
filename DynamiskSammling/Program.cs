@@ -90,10 +90,8 @@ class Program{
   static void Main(){
   Samling<bool> a = new Samling<bool>();
     a.LäggTill(true);
-    a.Print();
 
     a.LäggTill(false);
-    a.Print();
 
     a.Reducera();
     a.Print();
