@@ -60,7 +60,7 @@
   }
 
   public void TaBort(int c){
-  if (antal < längd || c >= 0 || c >= antal){
+  if (antal < längd || c >= 0 || c <= antal){
 
     T[] temp = new T[längd];
     int tempIndex = 0;
