@@ -94,7 +94,6 @@ class Program{
     a.LäggTill(false);
 
     a.Reducera();
-    a.Print();
 
     a.TaBort(3);
     a.Print();
